@@ -1,0 +1,1 @@
+using music as service from '../../srv/music';
